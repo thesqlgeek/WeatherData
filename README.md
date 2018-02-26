@@ -44,6 +44,6 @@ Windows Powershell
 
 5 - Save the file Weather Data Collector V1.0.ps1
 
-6 - You can now execute the Weather Data Collector V1.0.ps1 file.  You can setup a task to run and collect hourly.  The data is only updated once and hour on the hour.  I pickup mine
-    at :15 after the hour 24x7.  Use Task Scheduler and create a location to save and execute this file from the Task Scheduler. It is included in all versions.  You need to leave the PC/Server
+6 - Execute the Weather Data Collector V1.0.ps1 file.  You can setup a task to run and collect hourly.  The data is only updated once and hour on the hour.  I pickup mine
+    at :15 after the hour 24x7.  Use Task Scheduler on your Desktop/Server to schedule the Task. It is included in all versions of Windows Desktop and PC.  You need to leave the PC/Server
     on in order to run this if you have it scheduled. 
